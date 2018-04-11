@@ -1,0 +1,30 @@
+{
+  "name": "my-sjsu-app",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/mlemon573/MySjsuApp.git"
+  },
+  "contributors": [
+    {
+      "name": "Riley Chetwood",
+      "email": "riley.chetwood@sjsu.edu"
+    },
+    {
+      "name": "Mitchell LeMoine",
+      "email": "mlemoine573@gmail.com"
+    },
+    {
+      "name": "Joleena Marshall",
+      "email": "joleenamarshall@gmail.com"
+    },
+    {
+      "name": "Eric Scaramuzzo",
+      "email": "eric.scaramuzzo@gmail.com"
+    }
+  ],
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mlemon573/MySjsuApp/issues"
+  },
+  "homepage": "https://github.com/mlemon573/MySjsuApp#readme"
+}
