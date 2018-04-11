@@ -26,5 +26,15 @@
   "bugs": {
     "url": "https://github.com/mlemon573/MySjsuApp/issues"
   },
-  "homepage": "https://github.com/mlemon573/MySjsuApp#readme"
+  "homepage": "https://github.com/mlemon573/MySjsuApp#readme",
+  "dependencies": {
+    "foundation-sites": "^6.4.4-rc1"
+  },
+  "devDependencies": {
+    "autoprefixer": "^8.2.0",
+    "gulp": "^3.9.1",
+    "gulp-newer": "^1.4.0",
+    "gulp-postcss": "^7.0.1",
+    "gulp-sass": "^4.0.0"
+  }
 }
